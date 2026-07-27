@@ -196,7 +196,7 @@ pytest tests/ -v
 ```
 
 ```
-148 passed in 0.5s
+153 passed
 ```
 
 ## Built With
